@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "TikTok Clone",
+    "slug": "tiktok-clone", 
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.malakbazgulkhan.tiktokclone"
+    }
+  }
+}
