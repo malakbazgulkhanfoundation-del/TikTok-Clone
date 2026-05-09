@@ -1,15 +1,17 @@
 {
   "expo": {
-    "name": "TikTok Clone",
-    "slug": "tiktok-clone",
+    "name": "TikTok",
+    "slug": "tiktok",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "android": {
-      "package": "com.malakbazgulkhan.tiktokclone"
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
     },
-    "ios": {
-      "bundleIdentifier": "com.malakbazgulkhan.tiktokclone"
+    "android": {
+      "package": "com.malakbazgul.tiktok"
     }
   }
 }
